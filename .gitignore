@@ -1,0 +1,28 @@
+# Ignorar diretórios
+/node_modules/
+/.vscode/
+/.idea/
+/build/
+/dist/
+/tmp/
+# Ignorar arquivos de configuração locais
+.env
+
+# Ignorar logs e arquivos de backup
+*.log
+*.tmp
+*.swp
+*~
+
+# Ignorar binários
+*.exe
+*.dll
+*.out
+
+# Ignorar dependências e artefatos de compilação
+*.class
+*.jar
+
+# Ignorar arquivos temporários de sistema
+.DS_Store
+Thumbs.db
